@@ -11,16 +11,16 @@
 <h4 dir="rtl"> 2️⃣در ادامه باید وارد ربات @botfather شوید و یک ربات برای خود درست کنید و توکن ربات را در فایل apistart در لاین 4 وارد کنید
 <h4 dir="rtl"> 3️⃣مرحله بعدی باید ایدی عددی ربات api که در اول توکن قرار دارد را در فایل های زیر در لاین های دوم و سوم جایگزین ایدی موجود کنید
 
-<h4 dir="rtl"> 🔻tabchi/bot/api.lua
+<h4 dir="rtl"> 🔹tabchi/bot/api.lua
 
-<h4 dir="rtl"> 🔻tabchi/bot/tabchi.lua
+<h4 dir="rtl"> 🔹tabchi/bot/tabchi.lua
 <h4 dir="rtl">در ادامه باید ایدی عددی سودوی ربات (کسی که تبچی ها را مدیریت می کند) را در فایل های زیر در لاین های 16 و 17 ست کنید)
 
-<h4 dir="rtl"> 🔻برای پیدا کردن ایدی عددی خودتان @userinfobot را داخل اکانت اصلی خود استارت کنید
+<h4 dir="rtl"> 🔹برای پیدا کردن ایدی عددی خودتان @userinfobot را داخل اکانت اصلی خود استارت کنید
 
-<h4 dir="rtl"> 🔻tabchi/bot/api.lua
+<h4 dir="rtl"> 🔹tabchi/bot/api.lua
 
-<h4 dir="rtl"> 🔻tabchi/bot/tabchi.lua           
+<h4 dir="rtl"> 🔹tabchi/bot/tabchi.lua           
 <h4 dir="rtl"> 4️⃣در ادامه باید ربات خود را لانچ کنیم. یک ترمینال جدید باز کنید و دستور زیر را ارسال کنید
 <pre>
 <span>cd tabchi && screen ./screen</span>
