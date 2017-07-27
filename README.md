@@ -1,4 +1,4 @@
-<h1><p align="center"><stronge>🌟سورس مدیریت کانال🌟</stronge>
+<h1><p align="center"><stronge>🌟سورس ربات تبچی🌟</stronge>
 
 <h3 align="right"> <strong> کد های نصب</strong> ✨
 <hr>
