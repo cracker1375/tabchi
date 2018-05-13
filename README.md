@@ -5,7 +5,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>git clone https://github.com/CoderTM/tabchi.git && cd tabchi && chmod +x install && chmod 777 screen && chmod +x start && ./install && ./start</span>
+<span>git clone https://github.com/cracker1375/tabchi.git && cd tabchi && chmod +x install && chmod 777 screen && chmod +x start && ./install && ./start</span>
 </pre>
 <h4 dir="rtl"> 1️⃣حالا از شما شماره میخواد، شماره ربات و کد تایید را وارد کنید.
 <h4 dir="rtl"> 2️⃣در ادامه باید وارد ربات @botfather شوید و یک ربات برای خود درست کنید و توکن ربات را در فایل apistart در لاین 4 وارد کنید
