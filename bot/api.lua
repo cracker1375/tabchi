@@ -13,7 +13,7 @@ http = require "socket.http"
 https = require "ssl.https"
 -----~~~~~~~~~~~~~~~~
 d = dofile('./libs/redis.lua')
-config_sudo = {311704513}
+config_sudo = {165859842}
 function dl_cb(arg, data)
  --vardump(data)
  --vardump(arg)
